@@ -23,6 +23,7 @@ function App() {
     <Router>
       <div className="container flex column center">
         <div className="menu flex content-typo normal-typo-size">
+          {/* TODO: Add My Ressources menu, https://dev.to/jsmanifest/22-miraculous-tools-for-react-developers-in-2019-4i46  */}
           <MenuItem path="/" name={'Portfolio'} />
           {/* <MenuItem path="/code" name={'Code'} /> */}
           {/* <MenuItem path="/music" name={'Musique'} /> */}

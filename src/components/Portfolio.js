@@ -65,7 +65,8 @@ function Portfolio() {
         <span className="bold">Développeur Fullstack javascript</span>, j'ai participé à
         la conception du projet "from scratch".{" "}
         <span className="bold">React.js</span> en front pour le dashboard client
-        et <span className="bold">Express.js</span> pour l'API.
+        et <span className="bold">Express.js</span> pour l'API.<br/><br/>
+        <a className="bold link" href="https://www.dailymotion.com/video/x6ix8zj">Vidéo explicative</a>
       </Job>
       <Job
         name="Shoc"
