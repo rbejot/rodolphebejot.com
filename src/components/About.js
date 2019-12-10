@@ -19,12 +19,11 @@ function About() {
           Je m'appelle <span className="bold">Rodolphe Béjot</span>, je suis
           aujourd'hui en fin d'études à l'<span className="bold">école 42</span>{" "}
           et <span className="bold">freelance</span>. J'ai intégré cette école
-          il y'a bientôt 4 ans sans jamais avoir écrit une ligne de code de ma
-          vie avant ça ! J'ai fait des études d'arts et d'architecure, en plus
+          il y'a bientôt 4 ans. J'ai fait des études d'arts et d'architecure, en plus
           d'avoir un fort bagage technique j'ai un réel goût pour le{" "}
           <span className="bold">design</span>. <br />
-          <br />À côté du code je fais beaucoup de musiques et j'aimerai pouvoir
-          m'améliorer en illustration et en 3D (où je débute tout juste).
+          <br />À côté du code je fais beaucoup de musiques et j'aimerais pouvoir
+          m'améliorer en illustration et en 3D.
         </div>
       </div>
     </div>

@@ -40,7 +40,7 @@ function Portfolio() {
         image={Entoure}
         date="Juin 2019"
       >
-        Site e-commerce réalisé sous <span className="bold">Wordpress</span>{" "}
+        Site e-commerce que j'ai réalisé sous <span className="bold">Wordpress</span>{" "}
         avec <span className="bold">WooCommerce</span>. Développement à partir de
         maquettes graphiques.
       </Job>
